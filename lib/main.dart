@@ -35,7 +35,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 class MyDetails extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
